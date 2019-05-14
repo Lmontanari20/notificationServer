@@ -5,8 +5,7 @@ This guide is written with the intention of having an SQL database and wanting t
 It is based off of the below tutorial and Database Scheme: 
   * [Tutorial used for reference](https://spring.io/guides/gs/accessing-data-mysql/)
 
-![New Mockup 1](https://user-images.githubusercontent.com/33431089/57663656-bb12b900-75a9-11e9-96f7-30b1a9535297.png)
-
+![New Mockup 2](https://user-images.githubusercontent.com/33431089/57663726-02994500-75aa-11e9-90d9-602b62efe9f9.png)
 ## Initialize Project
 
 Go to this link to initialize the project files: 
